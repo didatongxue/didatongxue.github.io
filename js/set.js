@@ -21,10 +21,10 @@ $(function () {
             /* 基础信息 */
             $("#logo-img").attr("src", data.logo_img);
             $('#logo-text-1').html(data.logo_text_1);
-            $('#logo-text-2').html("." + data.logo_text_2);
+            $('#logo-text-2').html("" + data.logo_text_2);
             $('#logo-title-other').html(data.logo_text_1);
-            $('#logo-title-other-small').html("." + data.logo_text_2);
-            $('#logo-text-small').html(data.logo_text_1 + "." + data.logo_text_2);
+            $('#logo-title-other-small').html("" + data.logo_text_2);
+            $('#logo-text-small').html(data.logo_text_1 + "" + data.logo_text_2);
             /* 社交链接 */
             $('#github').attr('href', "https://github.com/" + data.github);
             $('#qq').attr('href', "https://wpa.qq.com/msgrd?v=3&uin=" + data.qq + "&site=qq&menu=yes");
