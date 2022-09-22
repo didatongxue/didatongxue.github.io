@@ -5,42 +5,42 @@
     "author": "滴答",
     "logo_img": "./img/icon/logo.png",
     "logo_text_1": "滴答",
-    "logo_text_2": 同学",
-    "github": "imsyy",
-    "qq": "1539250352",
-    "email": "one@imsyy.top",
-    "bilibili": "98544142",
-    "telegram": "bottom_user",
+    "logo_text_2": "同学",
+    "github": "didatongxue",
+    "qq": "2291450121",
+    "email": "didatongxue@qq.com",
+    "bilibili": "417329860",
+    "telegram": "",
     "link_1": [
-        "https://blog.imsyy.top/",
+        "https://dh.didayu.cn/",
         "fa-solid fa-blog",
-        "博客"
+        "滴答导航"
     ],
     "link_2": [
-        "https://drive.imsyy.top/",
+        "https://www.didayu.cn/",
         "fa-solid fa-cloud",
-        "网盘"
+        "滴答搜索"
     ],
     "link_3": [
-        "https://blog.imsyy.top/",
+        "https://didayu.cn/jiexi/",
         "fa-solid fa-music",
-        "音乐"
+        "滴答解析"
     ],
     "link_4": [
-        "https://nav.imsyy.top/",
+        "https://didayu.cn/wallpaper/",
         "fa-solid fa-compass",
-        "起始页"
+        "滴答壁纸"
     ],
     "link_5": [
-        "https://web.imsyy.top/",
+        "https://sw.didayu.cn/",
         "fa-solid fa-book-bookmark",
-        "网址集"
+        "滴答树屋"
     ],
     "link_6": [
-        "https://lab.imsyy.top/",
+        "http://idida.ysepan.com/",
         "fa-solid fa-flask",
-        "实验室"
+        "滴答喵喵屋"
     ],
     "Copyright_text": "滴答",
-    "beian": "赣ICP备20003729-1号"
+    "beian": "赣备20003729号-1"
 }
