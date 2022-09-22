@@ -5,7 +5,7 @@
     "author": "滴答",
     "logo_img": "./img/icon/logo.png",
     "logo_text_1": "滴答",
-    "logo_text_2": "同学",
+    "logo_text_2": "主页",
     "github": "didatongxue",
     "qq": "2291450121",
     "email": "didatongxue@qq.com",
@@ -14,32 +14,32 @@
     "link_1": [
         "https://dh.didayu.cn/",
         "fa-solid fa-blog",
-        "滴答导航"
+        "导航"
     ],
     "link_2": [
         "https://www.didayu.cn/",
         "fa-solid fa-cloud",
-        "滴答搜索"
+        "搜索"
     ],
     "link_3": [
         "https://didayu.cn/jiexi/",
         "fa-solid fa-music",
-        "滴答解析"
+        "解析"
     ],
     "link_4": [
         "https://didayu.cn/wallpaper/",
         "fa-solid fa-compass",
-        "滴答壁纸"
+        "壁纸"
     ],
     "link_5": [
         "https://sw.didayu.cn/",
         "fa-solid fa-book-bookmark",
-        "滴答树屋"
+        "树屋"
     ],
     "link_6": [
         "http://idida.ysepan.com/",
         "fa-solid fa-flask",
-        "滴答喵喵屋"
+        "喵喵屋"
     ],
     "Copyright_text": "滴答",
     "beian": "赣备20003729号-1"
